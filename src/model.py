@@ -6,7 +6,7 @@ import torch
 import torch.nn as nn
 from torch import Tensor
 
-from pytorch_tabular.models.common.layers import Embedding1dLayer, GatedFeatureLearningUnit
+from pytorch_tabular.models.common.layers import Embedding1dLayer
 from pytorch_tabular.models.common.layers.activations import t_softmax
 from pytorch_tabular.utils import get_logger
 
