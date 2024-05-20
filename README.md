@@ -13,7 +13,7 @@ Run the scripts and notebooks in the `scripts_notebooks` folder in the order men
 
 ## Model Implementation
 
-The model is implemented and added to PyTorch Tabular
+The model is implemented and added to PyTorch Tabular as one of the many models implemented there.
 `https://github.com/manujosephv/pytorch_tabular/tree/main/src/pytorch_tabular/models/gandalf`
 
 The code is also available in the `src` folder of this repo, but more to show the implementation. The actual implementation is in the PyTorch Tabular repo.
